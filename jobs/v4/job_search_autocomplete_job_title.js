@@ -4,7 +4,7 @@
 // [START job_search_autocomplete_job_title]
 // [START job_search_autocomplete_job_title_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Complete job title given partial text (autocomplete)

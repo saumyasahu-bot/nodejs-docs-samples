@@ -4,7 +4,7 @@
 // [START job_search_list_tenants]
 // [START job_search_list_tenants_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** List Tenants */
 function sampleListTenants(projectId) {

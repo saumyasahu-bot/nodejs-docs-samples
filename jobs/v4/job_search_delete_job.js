@@ -4,7 +4,7 @@
 // [START job_search_delete_job]
 // [START job_search_delete_job_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** Delete Job */
 function sampleDeleteJob(projectId, tenantId, jobId) {

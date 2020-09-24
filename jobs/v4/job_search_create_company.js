@@ -4,7 +4,7 @@
 // [START job_search_create_company]
 // [START job_search_create_company_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Create Company

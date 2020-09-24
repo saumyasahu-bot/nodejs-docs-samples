@@ -4,7 +4,7 @@
 // [START job_search_create_job]
 // [START job_search_create_job_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Create Job

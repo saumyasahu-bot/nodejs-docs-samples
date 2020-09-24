@@ -4,7 +4,7 @@
 // [START job_search_get_tenant]
 // [START job_search_get_tenant_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** Get Tenant by name */
 function sampleGetTenant(projectId, tenantId) {

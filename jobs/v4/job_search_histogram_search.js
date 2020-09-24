@@ -4,7 +4,7 @@
 // [START job_search_histogram_search]
 // [START job_search_histogram_search_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Search Jobs with histogram queries

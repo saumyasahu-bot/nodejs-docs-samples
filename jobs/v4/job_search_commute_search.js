@@ -4,7 +4,7 @@
 // [START job_search_commute_search]
 // [START job_search_commute_search_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** Search Jobs using commute distance */
 function sampleSearchJobs(projectId, tenantId) {

@@ -4,7 +4,7 @@
 // [START job_search_create_tenant]
 // [START job_search_create_tenant_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** Create Tenant for scoping resources, e.g. companies and jobs */
 function sampleCreateTenant(projectId, externalId) {

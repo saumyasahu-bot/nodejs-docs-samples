@@ -4,7 +4,7 @@
 // [START job_search_get_company]
 // [START job_search_get_company_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /** Get Company */
 function sampleGetCompany(projectId, tenantId, companyId) {

@@ -1,5 +1,6 @@
 {
     "dependencies": {
-        "@google-cloud/talent": "*"
+        "@google-cloud/talent": "file:../../../../../../Desktop/client-library/v4-nodejs-clientlib/talent-v4-nodejs",
+        "package.json": "^2.0.1"
     }
 }

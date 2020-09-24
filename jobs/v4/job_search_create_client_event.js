@@ -4,7 +4,7 @@
 // [START job_search_create_client_event]
 // [START job_search_create_client_event_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Creates a client event

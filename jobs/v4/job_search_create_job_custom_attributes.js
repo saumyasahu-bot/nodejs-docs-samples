@@ -4,7 +4,7 @@
 // [START job_search_create_job_custom_attributes]
 // [START job_search_create_job_custom_attributes_core]
 
-const talent = require('@google-cloud/talent').v4beta1;
+const talent = require('@google-cloud/talent').v4;
 
 /**
  * Create Job with Custom Attributes
